@@ -1,4 +1,4 @@
-# Embeddings
+# WORD2VEC
 Realisation of word2vec
 
 Word2vec model realization on torch and catalyst libraries
